@@ -1,0 +1,12 @@
+langchain_community 
+tiktoken  
+langchainhub 
+langchain 
+langgraph  
+tavily-python
+python-dotenv
+langchain-groq
+langchain-text-splitters
+wikipedia
+langchain_huggingface
+ipykernel
